@@ -1,0 +1,25 @@
+﻿Release Notes
+﻿
+Game Project: The Garden of Patience
+Creator: Inf1n1teSp1r1t
+Version: 2.0
+Date: 1/20/26
+
+
+New features
+* ﻿New items can now be acquired. A note, and a box.
+* New NPC’s have been added. Some may contain important dialogue…
+* New story direction to better suit the original thought process.
+﻿
+Fixes
+* ﻿All previous issues were solved due to the patch note seen below.
+﻿
+Improvements (of existing features)
+* ﻿Remade the entire map layout. It’s now more than double the size and provides a better experience for people.
+* Remade NPC dialogue to better fit the new story and motive.
+* Remade Screenshots to better showcase the newer version of the game.
+
+
+
+
+﻿
